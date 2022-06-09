@@ -10,7 +10,7 @@ class BST {
         Node* left;
         Node* right;
     };
- 
+
  private:
     Node* root;
     Node* addNode(Node* root, T value) {
